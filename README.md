@@ -4,8 +4,8 @@ stack always perform LIFO(last in first out)
 Here insertion operation is known as push(). 
 Here deletion operation is known as pop(). 
 There are various application of the stack:-
-         1.
-         2.
-         3.
-         4.
-         5.
+         1.Expression evaluation
+         2.Funcation calls
+         3.Memory management
+         4.Recursion
+         5.Backtracking
